@@ -21,8 +21,7 @@ Welcome to Taaza Khabar, your go-to source for fresh and up-to-date news, powere
    npm install
    npm start
 
-   ## Technologies Used
-
+## Technologies Used
 - **React:** Building a modern, efficient, and maintainable user interface.
 - **News APIs:** Leveraging reliable news APIs to fetch and display real-time news content.
 
